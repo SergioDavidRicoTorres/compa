@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "compa",
+    "slug": "compa",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./compa/assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./compa/assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./compa/assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./compa/assets/favicon.png"
+    }
+  }
+}

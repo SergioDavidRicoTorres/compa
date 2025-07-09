@@ -1,0 +1,3 @@
+node_modules
+# Ignore files with hardcoded credentials
+src/services/credentials.ts
