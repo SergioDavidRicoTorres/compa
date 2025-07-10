@@ -33,6 +33,6 @@ export default {
       },
     },
     scheme: "compa",
-    plugins: ["expo-dev-client"],
+    plugins: ["expo-dev-client", "expo-web-browser"],
   },
 };
